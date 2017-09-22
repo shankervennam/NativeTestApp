@@ -31,8 +31,8 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity
 {
-    private static final String ADMOB_AD_UNIT_ID = "ca-app-pub-3940256099942544/2247696110";
-    private static final String ADMOB_APP_ID = "ca-app-pub-3940256099942544~3347511713";
+    private static final String ADMOB_AD_UNIT_ID = "Enter your Ad Unit Id Here";
+    private static final String ADMOB_APP_ID = "Enter your App Id here";
 
     private Button mRefresh;
     private TextView mVideoStatus;
